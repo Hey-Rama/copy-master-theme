@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: SAINI TXT DIRECT 
+    name: 🏌️ՏᕼᗩᑌᖇYᗩ🏌️ TXT UPLOADER 
     plan: free
     env: docker
     dockerfilePath: Dockerfile
