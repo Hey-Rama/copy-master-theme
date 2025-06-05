@@ -1,5 +1,5 @@
 {
-    "name": "saini-txt-bot",
+    "name": "🏌️ՏᕼᗩᑌᖇYᗩ🏌️ Bot",
     "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
     "logo": "https://tinypic.host/images/2025/04/28/IMG_20250428_085026_585.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "repository": "https://github.com/nikhilsainiop/saini-txt-direct",
-    "success_url": "https://t.me/saini_contact_bot",
+    "success_url": "https://t.me/Contact_me_here11bot",
     "stack": "container",
     "env": {
         "API_ID": {
